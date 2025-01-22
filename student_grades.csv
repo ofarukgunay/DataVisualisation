@@ -1,0 +1,101 @@
+Student,Course,Midterm,Final,Grade
+Ahmet,Computer Science,50,32,Failed
+Ahmet,Music,87,1,Failed
+Ahmet,Art,21,55,Failed
+Ahmet,Literature,42,12,Failed
+Ahmet,Geography,89,42,Passed
+Ahmet,History,41,86,Passed
+Ahmet,Physics,6,23,Failed
+Ahmet,Chemistry,15,3,Failed
+Ahmet,Biology,96,60,Passed
+Ahmet,Math,68,38,Passed
+Ali,Chemistry,50,28,Failed
+Ali,Physics,48,58,Passed
+Ali,History,40,43,Failed
+Ali,Geography,12,63,Failed
+Ali,Literature,38,21,Failed
+Ali,Art,91,46,Passed
+Ali,Music,87,21,Failed
+Ali,Computer Science,18,37,Failed
+Ali,Math,96,0,Failed
+Ali,Biology,58,44,Failed
+Ayşe,Music,96,17,Failed
+Ayşe,Computer Science,97,14,Failed
+Ayşe,Math,16,11,Failed
+Ayşe,Biology,26,24,Failed
+Ayşe,Chemistry,1,48,Failed
+Ayşe,Physics,86,20,Failed
+Ayşe,History,4,60,Failed
+Ayşe,Geography,76,2,Failed
+Ayşe,Literature,51,99,Passed
+Ayşe,Art,41,82,Passed
+Burak,Chemistry,35,57,Failed
+Burak,Physics,72,73,Passed
+Burak,History,11,5,Failed
+Burak,Geography,0,80,Failed
+Burak,Computer Science,51,59,Passed
+Burak,Art,41,23,Failed
+Burak,Music,68,39,Passed
+Burak,Biology,31,23,Failed
+Burak,Literature,77,64,Passed
+Burak,Math,51,65,Passed
+Elif,Computer Science,51,42,Failed
+Elif,Art,20,29,Failed
+Elif,Literature,17,30,Failed
+Elif,Geography,25,6,Failed
+Elif,History,75,8,Failed
+Elif,Physics,31,85,Passed
+Elif,Chemistry,20,50,Failed
+Elif,Biology,15,95,Passed
+Elif,Math,14,53,Failed
+Elif,Music,52,80,Passed
+Fatma,Biology,2,4,Failed
+Fatma,Chemistry,54,62,Passed
+Fatma,Physics,78,97,Passed
+Fatma,History,31,70,Passed
+Fatma,Music,51,14,Failed
+Fatma,Literature,60,80,Passed
+Fatma,Art,12,29,Failed
+Fatma,Computer Science,70,31,Failed
+Fatma,Geography,97,100,Passed
+Fatma,Math,87,31,Passed
+Hasan,Computer Science,18,29,Failed
+Hasan,Music,36,72,Passed
+Hasan,Biology,65,11,Failed
+Hasan,Chemistry,11,40,Failed
+Hasan,Physics,40,70,Passed
+Hasan,Math,69,44,Passed
+Hasan,Geography,69,14,Failed
+Hasan,Literature,62,77,Passed
+Hasan,Art,88,87,Passed
+Hasan,History,81,32,Passed
+Mehmet,Art,28,28,Failed
+Mehmet,Math,71,31,Failed
+Mehmet,Biology,81,12,Failed
+Mehmet,Chemistry,74,76,Passed
+Mehmet,Physics,80,46,Passed
+Mehmet,History,4,89,Passed
+Mehmet,Geography,75,17,Failed
+Mehmet,Literature,86,9,Failed
+Mehmet,Music,97,21,Passed
+Mehmet,Computer Science,27,39,Failed
+Murat,Music,57,51,Passed
+Murat,Art,85,66,Passed
+Murat,Literature,71,33,Failed
+Murat,Geography,100,0,Failed
+Murat,History,7,9,Failed
+Murat,Physics,51,34,Failed
+Murat,Chemistry,63,60,Passed
+Murat,Biology,6,65,Failed
+Murat,Math,93,78,Passed
+Murat,Computer Science,45,86,Passed
+Zeynep,Biology,11,72,Failed
+Zeynep,Chemistry,44,47,Failed
+Zeynep,Physics,79,82,Passed
+Zeynep,History,4,55,Failed
+Zeynep,Geography,44,36,Failed
+Zeynep,Literature,30,61,Failed
+Zeynep,Art,22,89,Passed
+Zeynep,Music,14,76,Passed
+Zeynep,Computer Science,56,51,Passed
+Zeynep,Math,5,66,Failed
